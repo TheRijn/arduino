@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: Arduino Course
+description: Learn how to program the Arduino
+show_downloads: false
