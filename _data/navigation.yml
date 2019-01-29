@@ -5,8 +5,10 @@ main:
     url: /basics/blink
 
 basics:
-  - title: Blink
-    url: /basics/blink
-  - title: Circuit
-    url: /basics/circuit
+  - title: Basics
+    children:
+    - title: Blink
+      url: /basics/blink
+    - title: Circuit
+      url: /basics/circuit
     
