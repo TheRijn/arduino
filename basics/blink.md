@@ -1,5 +1,6 @@
 ---
 title: Blink
-menus: heade
+layout: single
 ---
+
 # Blink
