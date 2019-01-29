@@ -5,4 +5,3 @@ sidebar:
   nav: "basics"
 ---
 
-# Blink
