@@ -1,6 +1,7 @@
 ---
 title: Homepage
-menus: header
+layout: home
+author_profile: true
 ---
 
 # Welcome!
