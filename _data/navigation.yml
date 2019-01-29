@@ -1,5 +1,7 @@
 main:
   - title: Home
     url: /
-  - title: Blink
-    url: /basics/blink
+  - title: Basics
+    children:
+    - title: Blink
+      url: /basics/blink
