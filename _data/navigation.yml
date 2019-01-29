@@ -3,6 +3,15 @@ main:
     url: /
   - title: Basics
     url: /basics/blink
+  - title: Challenges
+    url: #
+  - title: Examples
+    url: #
+  - title: Background
+    url: #
+  - title: Resources
+    url: #
+ 
 
 basics:
   - title: Basics
@@ -11,4 +20,18 @@ basics:
       url: /basics/blink
     - title: Circuit
       url: /basics/circuit
+    - title: Fade
+      url: #
+    - title: Serial
+      url: #
+    - title: Button
+      url: #
+    - title: Debounce
+      url: #
+    - title: Light Sensor
+      url: #
+    - title: Servo
+      url: #
+    - title: Sonar
+      url: #
     
