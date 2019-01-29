@@ -2,3 +2,5 @@ remote_theme: mmistakes/minimal-mistakes
 title: Arduino Course
 description: Learn how to program the Arduino
 show_downloads: false
+plugins:
+  - jekyll-include-cache
