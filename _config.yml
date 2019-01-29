@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 title: Arduino Course
 description: Learn how to program the Arduino
 show_downloads: false
