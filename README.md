@@ -1,3 +1,8 @@
+---
+title: Homepage
+menus: header
+---
+
 # Welcome!
 
 Learn hot to program the Arduino!
