@@ -6,7 +6,7 @@ author_profile: true
 
 # Welcome!
 
-Learn hot to program the Arduino!
+Learn how to program the Arduino!
 
 The exercises on this website assume that you know C or C++. For the rest no prior knowledge is required.
 
